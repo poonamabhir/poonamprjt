@@ -2,26 +2,26 @@
 <testng-results total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-08-17T09:08:18Z" name="Suite" finished-at="2021-08-17T09:08:18Z" duration-ms="77">
+  <suite started-at="2021-08-29T02:47:41Z" name="Suite" finished-at="2021-08-29T02:47:41Z" duration-ms="48">
     <groups>
     </groups>
-    <test started-at="2021-08-17T09:08:18Z" name="Test" finished-at="2021-08-17T09:08:18Z" duration-ms="77">
+    <test started-at="2021-08-29T02:47:41Z" name="Test" finished-at="2021-08-29T02:47:41Z" duration-ms="48">
       <class name="mavenTutorial.MavenDemo.RESTAPITest">
-        <test-method signature="deletTwitter()[pri:0, instance:mavenTutorial.MavenDemo.RESTAPITest@27adc16e]" started-at="2021-08-17T14:38:18Z" name="deletTwitter" finished-at="2021-08-17T14:38:18Z" duration-ms="2" status="PASS">
+        <test-method signature="deletTwitter()[pri:0, instance:mavenTutorial.MavenDemo.RESTAPITest@3370f42]" started-at="2021-08-29T08:17:41Z" name="deletTwitter" finished-at="2021-08-29T08:17:41Z" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deletTwitter -->
-        <test-method signature="postJira()[pri:0, instance:mavenTutorial.MavenDemo.RESTAPITest@27adc16e]" started-at="2021-08-17T14:38:18Z" name="postJira" finished-at="2021-08-17T14:38:18Z" duration-ms="1" status="PASS">
+        <test-method signature="postJira()[pri:0, instance:mavenTutorial.MavenDemo.RESTAPITest@3370f42]" started-at="2021-08-29T08:17:41Z" name="postJira" finished-at="2021-08-29T08:17:41Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postJira -->
       </class> <!-- mavenTutorial.MavenDemo.RESTAPITest -->
       <class name="mavenTutorial.MavenDemo.AppiumTest">
-        <test-method signature="MobileApp()[pri:0, instance:mavenTutorial.MavenDemo.AppiumTest@67b9b51a]" started-at="2021-08-17T14:38:18Z" name="MobileApp" finished-at="2021-08-17T14:38:18Z" duration-ms="27" status="PASS">
+        <test-method signature="MobileApp()[pri:0, instance:mavenTutorial.MavenDemo.AppiumTest@732d0d24]" started-at="2021-08-29T08:17:41Z" name="MobileApp" finished-at="2021-08-29T08:17:41Z" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MobileApp -->
-        <test-method signature="Nativeapp()[pri:0, instance:mavenTutorial.MavenDemo.AppiumTest@67b9b51a]" started-at="2021-08-17T14:38:18Z" name="Nativeapp" finished-at="2021-08-17T14:38:18Z" duration-ms="3" status="PASS">
+        <test-method signature="Nativeapp()[pri:0, instance:mavenTutorial.MavenDemo.AppiumTest@732d0d24]" started-at="2021-08-29T08:17:41Z" name="Nativeapp" finished-at="2021-08-29T08:17:41Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Nativeapp -->

@@ -9,6 +9,8 @@ public class AppiumTest {
 	{
 		System.out.println("Nativeapp");
 		System.out.println("I am in Y- MavanDemo");
+		System.out.println("Hello from Mital..");
+		System.out.println("practicing git..");
 	}
 	@Test
 public void MobileApp()
